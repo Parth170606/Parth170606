@@ -291,29 +291,6 @@ The repository is included as a featured project. Its specific model provider, m
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## GitHub activity
-
-<div align="center">
-
-<a href="https://github.com/Parth170606">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parth170606&show_icons=true&hide_border=true&bg_color=F5EFE6&title_color=564532&text_color=30251D&icon_color=CC692C" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Parth170606">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth170606&layout=compact&hide_border=true&bg_color=F5EFE6&title_color=564532&text_color=30251D" alt="Most used languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Parth170606&hide_border=true&background=F5EFE6&ring=CC692C&fire=CC692C&currStreakLabel=564532&sideLabels=564532&currStreakNum=30251D&sideNums=30251D&dates=927D69" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Parth170606/Parth170606/output/github-contribution-grid-snake.svg" width="96%" alt="Contribution snake animation"/>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
 ## How I approach a build
 
 <div align="center">
