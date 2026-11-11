@@ -297,7 +297,7 @@ The repository is included as a featured project. Its specific model provider, m
 <img src="assets/build-map.svg" width="100%" alt="A visual map from problem discovery to a shipped product"/>
 </div>
 
-I like to move through a build with a simple loop: understand the problem, shape the experience, design the system, implement the details, ship it and learn from how it behaves.
+I follow a structured approach to product development — understanding problems, crafting intuitive experiences, architecting scalable solutions, executing with precision, and continuously improving through real-world feedback.
 
 ## The builder's path
 
